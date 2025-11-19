@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rian.rassetiadi.acceptancetests.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.845 s - in com.rian.rassetiadi.acceptancetests.AcceptanceTestSuite

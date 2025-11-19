@@ -1,0 +1,14 @@
+com\rian\rassetiadi\api\BookStoreApi.class
+com\rian\rassetiadi\model\Books.class
+com\rian\rassetiadi\model\User.class
+com\rian\rassetiadi\api\AccountApi.class
+com\rian\rassetiadi\pages\BookStorePage.class
+com\rian\rassetiadi\model\Isbn.class
+com\rian\rassetiadi\model\LoginResponse.class
+com\rian\rassetiadi\model\AddListOfBooks.class
+com\rian\rassetiadi\util\WebUtil.class
+com\rian\rassetiadi\model\Book.class
+com\rian\rassetiadi\pages\GeneralPage.class
+com\rian\rassetiadi\data\BookPageData.class
+com\rian\rassetiadi\model\DeleteBook.class
+com\rian\rassetiadi\model\Login.class

@@ -1,0 +1,4 @@
+com\rian\rassetiadi\acceptancetests\AcceptanceTestSuite.class
+com\rian\rassetiadi\steps\BookStorePageStep.class
+com\rian\rassetiadi\steps\GeneralStep.class
+com\rian\rassetiadi\steps\BookStoreAPIStep.class
