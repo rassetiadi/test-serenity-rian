@@ -7,6 +7,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.serenitybdd.annotations.Steps;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 import java.util.Map;
@@ -17,7 +18,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class BookStorePageStep {
 
-    @Steps
+    @Autowired
     BookStorePage bookStorePage;
 
     @When("ui fully loaded")

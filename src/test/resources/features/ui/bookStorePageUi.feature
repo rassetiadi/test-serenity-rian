@@ -1,4 +1,4 @@
-@bookstore-ui
+@bookstore-ui @regression
 Feature: Book Store Page UI
 
   Background:
