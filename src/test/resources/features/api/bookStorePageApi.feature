@@ -1,4 +1,4 @@
-@bookstore-api
+@bookstore-api @regression
 Feature: Book Store Page API
 
   Background:
